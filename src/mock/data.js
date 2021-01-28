@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: 'Hi, my name is',
   name: 'Hamid',
-  subtitle: 'and Im a Front end Developer ⚡ Web designer from Abuja.',
+  subtitle: 'and Im a Front end Developer ⚡ Web designer from Abuja, Nigeria.',
   cta: 'See more',
 };
 
@@ -60,8 +60,8 @@ export const projectsData = [
 
 // CONTACT DATA
 export const contactData = {
-  cta: 'I would love to hear from you',
-  btn: 'Holla',
+  cta: 'I would love to hear from you!',
+  btn: '📬 Holla',
   email: 'hazemidoo@gmail.com',
 };
 
