@@ -32,19 +32,19 @@ export const projectsData = [
   {
     id: uuidv4(),
     img: 'HumanElements.png',
-    title: 'THE HUMAN ELEMENTS EXP',
-    info: 'Colors of Temperament',
-    info2: '',
-    url: 'https://theelementsarehuman.com',
+    title: 'KAKU',
+    info: 'Website design and development for kaku.ng a Copy-writing agency',
+    info2: 'Design was minimal and built with modern utilities for lighting speed performance ',
+    url: 'https://buildingkaku.netlify.app',
     repo: '', // if no repo, the button will not show up
   },
   {
     id: uuidv4(),
     img: 'mole.png',
-    title: '',
-    info: '',
+    title: 'THE EVERYTHING QUIZ',
+    info: 'A Web application where users can take random quizes on a range of topics',
     info2: '',
-    url: '',
+    url: 'https://everythingquiz.netlify.app',
     repo: '', // if no repo, the button will not show up
   },
   {
