@@ -45,16 +45,16 @@ export const projectsData = [
     info: 'A Web application where users can take random quizes on a range of topics',
     info2: '',
     url: 'https://everythingquiz.netlify.app',
-    repo: '', // if no repo, the button will not show up
+    repo: 'https://github.com/Hzmid/The-everything-quiz', // if no repo, the button will not show up
   },
   {
     id: uuidv4(),
     img: 'mole.png',
-    title: 'GAME',
+    title: 'CURRENT LOCATION WEATHER APP',
     info: '',
     info2: '',
-    url: '',
-    repo: '', // if no repo, the button will not show up
+    url: 'https://currentlocationweather.netlify.app/',
+    repo: 'https://github.com/Hzmid/Current-Location-Weather-App', // if no repo, the button will not show up
   },
 ];
 
