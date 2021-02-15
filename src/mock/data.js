@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: 'Hi, my name is',
   name: 'Hamid',
-  subtitle: 'and Im a Front end Developer ⚡ Web designer from Abuja, Nigeria.',
+  subtitle: 'and Im a Front-end Developer ⚡ Web Developer from Abuja NG.',
   cta: 'See More',
 };
 
@@ -19,11 +19,11 @@ export const heroData = {
 export const aboutData = {
   img: 'profilepic.jpg',
   paragraphOne:
-    'Hello there! Im Abdul Hamid Usman, Im a Front-end Developer from Abuja, learning the MERN stack and currently working as a Freelancer.',
+    'Hello there! Im Abdul Hamid Usman, Im a Front-end Developer and Web Developer from Abuja, learning the MERN stack and currently working as a Freelancer.',
   paragraphTwo:
-    'Ive always had a knack for learning how things work. My career over the years has leaped between Health, Art, Psychology, Fashion-Design etc. And then i found Technology and product development, and i knew i found where i wanted to be. Now I use my experience to be more than just a coder, connecting business requirements and Individual preferences with modern technology. ',
+    'Ive always had a knack for learning how things work. My career over the years has leaped between Health, Art, Psychology, Fashion-Design etc. And then i found Technology and product development. With 2 years working on the web i connect business requirements and Individual preferences with modern technology. Building and maintaining interactive, user-friendly and functional websites and apps. Blending the art of design with skill of programming for outstanding Front-end experience and web solutions. Building websites from start to finish with proactive feature optimization and utilizing modern frameworks and libraries. Im a firm believer in the mobile-first approach and im very passionate about aesthetics and UX/UI design '
   paragraphThree:
-    'My tech stack (for now) includes React, javaScript, NPM, SASS, HTML, CSS, Bootstrap, jQuery, WordPress, Flexbox and Grid, Git.',
+    'My tech stack (for now) includes JavaScript, TypeScript, ReactJS, Redux, GatsbyJS, TailwindCSS, Bootstrap, Material UI, Sass, HTML, CSS, graphQL, jQuery, GIT, Github, Gsap, Animations, Vectors, wordPress, NPM, Webpack, E-commerce, SEO, Cross-browser compatibility, UX/UI design, Mobile-layout, Microsoft office suite.',
   resume: '', // if no resume, the button will not show up
 };
 
