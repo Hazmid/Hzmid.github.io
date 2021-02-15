@@ -12,7 +12,7 @@ export const heroData = {
   title: 'Hi, my name is',
   name: 'Hamid',
   subtitle: 'and Im a Front end Developer ⚡ Web designer from Abuja, Nigeria.',
-  cta: 'See more',
+  cta: 'See More',
 };
 
 // ABOUT DATA
@@ -34,7 +34,11 @@ export const projectsData = [
     img: 'HumanElements.png',
     title: 'KAKU',
     info: 'Website design and development for kaku.ng a Copy-writing agency',
-    info2: 'Design was minimal and built with modern utilities for lighting speed performance ',
+    info2: 'Design was minimal and built with modern utilities for lighting speed performance 
+
+⚫Gatsby JS
+⚫React
+⚫Tailwind CSS',
     url: 'https://buildingkaku.netlify.app',
     repo: '', // if no repo, the button will not show up
   },
@@ -43,16 +47,21 @@ export const projectsData = [
     img: 'mole.png',
     title: 'THE EVERYTHING QUIZ',
     info: 'A Web application where users can take random quizes on a range of topics',
-    info2: '',
+    info2: '⚫React
+⚫TypeScript
+⚫Styled-Components',
     url: 'https://everythingquiz.netlify.app',
     repo: 'https://github.com/Hzmid/The-everything-quiz', // if no repo, the button will not show up
   },
   {
     id: uuidv4(),
     img: 'mole.png',
-    title: 'CURRENT LOCATION WEATHER APP',
-    info: '',
-    info2: '',
+    title: 'WEATHER APP',
+    info: 'A Weather App built with pure vanilla JavaScript',
+    info2: '⚫HTML 
+⚫CSS 
+⚫JavaScript 
+⚫APIs ',
     url: 'https://currentlocationweather.netlify.app/',
     repo: 'https://github.com/Hzmid/Current-Location-Weather-App', // if no repo, the button will not show up
   },
