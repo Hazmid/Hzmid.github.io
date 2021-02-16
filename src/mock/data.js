@@ -10,8 +10,8 @@ export const headData = {
 // HERO DATA
 export const heroData = {
   title: 'Hi, my name is',
-  name: 'Hamid',
-  subtitle: 'and Im a Front-end Developer ⚡ Web Developer from Abuja NG.',
+  name: 'Hamid ⚡',
+  subtitle: 'and Im a Front-end Developer and Web Developer from Abuja NG.',
   cta: 'See More',
 };
 
@@ -31,16 +31,16 @@ export const aboutData = {
 export const projectsData = [
   {
     id: uuidv4(),
-    img: 'HumanElements.png',
+    img: 'kaku.png',
     title: 'KAKU',
-    info: 'Website design and development for Kaku.ng a Copy-writing agency',
-    info2: 'The design was minimal and built with modern utilities for lighting speed performance ⚫Gatsby JS ⚫React ⚫Tailwind CSS',
+    info: 'Website design and development for Kaku.ng a Copy-writing agency. The design was minimal and built with modern utilities for lighting speed performance.',
+    info2: '⚫Gatsby JS ⚫React ⚫Tailwind CSS',
     url: 'https://buildingkaku.netlify.app',
     repo: '', // if no repo, the button will not show up
   },
   {
     id: uuidv4(),
-    img: 'mole.png',
+    img: 'everythingquiz.png',
     title: 'THE EVERYTHING QUIZ',
     info: 'A Web application where users can take random quizzes on a range of topics',
     info2: '⚫React ⚫TypeScript ⚫Styled-Components',
@@ -49,7 +49,7 @@ export const projectsData = [
   },
   {
     id: uuidv4(),
-    img: 'mole.png',
+    img: 'weatherapp.png',
     title: 'WEATHER APP',
     info: 'A Weather App built with pure vanilla JavaScript',
     info2: '⚫HTML  ⚫CSS  ⚫JavaScript  ⚫APIs ',
