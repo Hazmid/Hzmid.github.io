@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne:
     'Hello there! Im Abdul Hamid Usman, Im a Front-end Developer and Web Developer from Abuja, learning the MERN stack and currently working as a Freelancer.',
   paragraphTwo:
-    'Ive always had a knack for learning how things work. My career over the years has leaped between Health, Art, Psychology, Fashion-Design etc. And then i found Technology and product development. With 2 years working on the web i connect business requirements and Individual preferences with modern technology. Building and maintaining interactive, user-friendly and functional websites and apps. Blending the art of design with skill of programming for outstanding Front-end experience and web solutions. Building websites from start to finish with proactive feature optimization and utilizing modern frameworks and libraries. Im a firm believer in the mobile-first approach and im very passionate about aesthetics and UX/UI design '
+    'Ive always had a knack for learning how things work. My career over the years has transitioned between Health, Art, Psychology, Fashion-Design etc. And then i found Technology and Product development. With 2 years working on the web i connect business requirements and Individual preferences with modern technology. Building and maintaining interactive, user-friendly and functional websites and apps. Blending the art of design with skill of programming for outstanding Front-end experience and web solutions. Building websites from start to finish with proactive feature optimization and utilizing modern frameworks and libraries. Im a firm believer in the mobile-first approach and im very passionate about aesthetics and UX/UI design.',
   paragraphThree:
     'My tech stack (for now) includes JavaScript, TypeScript, ReactJS, Redux, GatsbyJS, TailwindCSS, Bootstrap, Material UI, Sass, HTML, CSS, graphQL, jQuery, GIT, Github, Gsap, Animations, Vectors, wordPress, NPM, Webpack, E-commerce, SEO, Cross-browser compatibility, UX/UI design, Mobile-layout, Microsoft office suite.',
   resume: '', // if no resume, the button will not show up
@@ -33,12 +33,8 @@ export const projectsData = [
     id: uuidv4(),
     img: 'HumanElements.png',
     title: 'KAKU',
-    info: 'Website design and development for kaku.ng a Copy-writing agency',
-    info2: 'Design was minimal and built with modern utilities for lighting speed performance 
-
-⚫Gatsby JS
-⚫React
-⚫Tailwind CSS',
+    info: 'Website design and development for Kaku.ng a Copy-writing agency',
+    info2: 'The design was minimal and built with modern utilities for lighting speed performance ⚫Gatsby JS ⚫React ⚫Tailwind CSS',
     url: 'https://buildingkaku.netlify.app',
     repo: '', // if no repo, the button will not show up
   },
@@ -46,10 +42,8 @@ export const projectsData = [
     id: uuidv4(),
     img: 'mole.png',
     title: 'THE EVERYTHING QUIZ',
-    info: 'A Web application where users can take random quizes on a range of topics',
-    info2: '⚫React
-⚫TypeScript
-⚫Styled-Components',
+    info: 'A Web application where users can take random quizzes on a range of topics',
+    info2: '⚫React ⚫TypeScript ⚫Styled-Components',
     url: 'https://everythingquiz.netlify.app',
     repo: 'https://github.com/Hzmid/The-everything-quiz', // if no repo, the button will not show up
   },
@@ -58,10 +52,7 @@ export const projectsData = [
     img: 'mole.png',
     title: 'WEATHER APP',
     info: 'A Weather App built with pure vanilla JavaScript',
-    info2: '⚫HTML 
-⚫CSS 
-⚫JavaScript 
-⚫APIs ',
+    info2: '⚫HTML  ⚫CSS  ⚫JavaScript  ⚫APIs ',
     url: 'https://currentlocationweather.netlify.app/',
     repo: 'https://github.com/Hzmid/Current-Location-Weather-App', // if no repo, the button will not show up
   },
