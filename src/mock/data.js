@@ -51,10 +51,19 @@ export const projectsData = [
     id: uuidv4(),
     img: 'weatherapp.png',
     title: 'WEATHER APP',
-    info: 'A Weather App built with pure vanilla JavaScript',
+    info: 'A Weather App built with vanilla JavaScript and data from openweatherapi',
     info2: '⚫HTML  ⚫CSS  ⚫JavaScript  ⚫APIs ',
     url: 'https://currentlocationweather.netlify.app/',
     repo: 'https://github.com/Hzmid/Current-Location-Weather-App', // if no repo, the button will not show up
+  },
+  {
+    id: uuidv4(),
+    img: 'tetris.png',
+    title: 'TETRIS GAME',
+    info: 'A Tetris game built with just vanilla JavaScript, no frameworks or libraries',
+    info2: '⚫JavaScript',
+    url: 'https://tetriswithjs.netlify.app/',
+    repo: 'https://github.com/Hzmid/Tetris-with-javaScript', // if no repo, the button will not show up
   },
 ];
 
