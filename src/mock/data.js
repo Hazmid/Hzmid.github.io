@@ -17,7 +17,7 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'profilepic.jpg',
+  img: 'prfl.jpg',
   paragraphOne:
     'Hello there! Im Abdul Hamid Usman, Im a Front-end Developer and Web Developer from Abuja, learning the MERN stack and currently working as a Freelancer. Ive always had a knack for learning how things work. My career over the years has transitioned between Health, Art, Psychology, Fashion-Design etc. And then i found Technology and Product development.',
   paragraphTwo:
