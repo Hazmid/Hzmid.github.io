@@ -23,7 +23,7 @@ export const aboutData = {
   paragraphTwo:
     'Now with 2 years working on the web, i connect business requirements and Individual preferences with modern technology. Building and maintaining interactive, user-friendly and functional websites and apps. Blending the art of design with skill of programming for outstanding Front-end experience and web solutions. Building websites from start to finish with proactive feature optimization and utilizing modern frameworks and libraries. Im a firm believer in the mobile-first approach and im very passionate about aesthetics and UX/UI design.',
   paragraphThree:
-    'My tech stack (for now) includes JavaScript, TypeScript, ReactJS, Redux, GatsbyJS, TailwindCSS, Bootstrap, Material UI, Sass, HTML, CSS, graphQL, jQuery, GIT, Github, Gsap, Animations, Vectors, wordPress, NPM, Webpack, E-commerce, SEO, Cross-browser compatibility, UX/UI design, Mobile-layout, Microsoft office suite.',
+    'My tech stack (for now) includes JavaScript, TypeScript, ReactJS, React Native, Redux, GatsbyJS, TailwindCSS, Bootstrap, Material UI, Sass, HTML, CSS, graphQL, jQuery, GIT, Github, Gsap, Animations, Vectors, wordPress, NPM, Webpack, Netlify, E-commerce, SEO, Cross-browser compatibility, UX/UI design, Mobile-layout, Microsoft office suite.',
   resume: '', // if no resume, the button will not show up
 };
 
@@ -34,7 +34,7 @@ export const projectsData = [
     img: 'kaku.png',
     title: 'KAKU',
     info: 'Website design and development for Kaku.ng a Copy-writing agency. The design was minimal and built with modern utilities for lighting speed performance.',
-    info2: '⚫Gatsby JS ⚫React ⚫Tailwind CSS',
+    info2: 'GatsbyJS + ReactJS + TailwindCSS',
     url: 'https://buildingkaku.netlify.app',
     repo: '', // if no repo, the button will not show up
   },
@@ -43,7 +43,7 @@ export const projectsData = [
     img: 'everythingquiz.png',
     title: 'THE EVERYTHING QUIZ',
     info: 'A Web application where users can take random quizzes on a range of topics',
-    info2: '⚫React ⚫TypeScript ⚫Styled-Components',
+    info2: 'ReactJS + TypeScript + Styled-Components',
     url: 'https://everythingquiz.netlify.app',
     repo: 'https://github.com/Hzmid/The-everything-quiz', // if no repo, the button will not show up
   },
@@ -52,8 +52,8 @@ export const projectsData = [
     img: 'weatherapp.png',
     title: 'WEATHER APP',
     info: 'A Weather App built with vanilla JavaScript and data from openweatherapi',
-    info2: '⚫HTML  ⚫CSS  ⚫JavaScript  ⚫APIs ',
-    url: 'https://currentlocationweather.netlify.app/',
+    info2: 'HTML + CSS + JavaScript + APIs ',
+    url: 'https://clweather.netlify.app/',
     repo: 'https://github.com/Hzmid/Current-Location-Weather-App', // if no repo, the button will not show up
   },
   {
@@ -61,7 +61,7 @@ export const projectsData = [
     img: 'tetris.png',
     title: 'TETRIS GAME',
     info: 'A Tetris game built with just vanilla JavaScript, no frameworks or libraries',
-    info2: '⚫JavaScript',
+    info2: 'JavaScript',
     url: 'https://tetriswithjs.netlify.app/',
     repo: 'https://github.com/Hzmid/Tetris-with-javaScript', // if no repo, the button will not show up
   },
