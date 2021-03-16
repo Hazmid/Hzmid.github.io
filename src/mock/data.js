@@ -19,11 +19,11 @@ export const heroData = {
 export const aboutData = {
   img: 'prfl.jpg',
   paragraphOne:
-    'Hello there! Im Abdulhamid Usman, Im a Front-end / Web Developer from Abuja, learning the MERN stack and currently working as a Freelancer. Ive always had a knack for learning how things work. My career over the years has transitioned between Health, Art, Psychology, Fashion-Design etc. And then i found Technology and Product development.',
+    'Hello there! Im Abdulhamid Usman, Im a Front-end / Web Developer from Abuja, learning the MERN stack and currently working as a Freelancer. Ive always had a knack for learning how things work. My career over the years has transitioned between Health, Customer service, Art, Psychology, Fashion-Design. And then i found Technology and Product development.',
   paragraphTwo:
     'Now with 2 years working on the web, i connect business requirements and Individual preferences with modern technology. Building and maintaining interactive, user-friendly and functional websites and apps. Blending the art of design with skill of programming for outstanding Front-end experience and web solutions. Building websites from start to finish with proactive feature optimization and utilizing modern frameworks and libraries. Im a firm believer in the mobile-first approach and im very passionate about aesthetics and UX/UI design.',
   paragraphThree:
-    'My tech stack (for now) includes JavaScript, TypeScript, ReactJS, React Native, Redux, GatsbyJS, TailwindCSS, Bootstrap, Material UI, Sass, HTML, CSS, graphQL, jQuery, GIT, Github, Gsap, Animations, Vectors, wordPress, NPM, Webpack, Netlify, E-commerce, SEO, Cross-browser compatibility, UX/UI design, Mobile-layout, Microsoft office suite.',
+    'My tech stack (for now) includes JavaScript, TypeScript, ReactJS, React Native, Redux, GatsbyJS, TailwindCSS, Bootstrap, Material UI, Sass, HTML, CSS, graphQL, jQuery, GIT, Github, Gsap, Animations, Vectors, wordPress, NPM, Webpack, Netlify, E-commerce, SEO, Cross-browser compatibility, UX/UI design and Mobile Responsiviness.',
   resume: '', // if no resume, the button will not show up
 };
 
@@ -33,7 +33,7 @@ export const projectsData = [
     id: uuidv4(),
     img: 'kaku.png',
     title: 'KAKU',
-    info: 'Website design and development for Kaku.ng a Copy-writing agency. The design was minimal and built with modern utilities for lighting speed performance.',
+    info: 'Website design and development for Kaku.ng a Copy-writing agency. The design was minimal and built with modern utilities for lightning speed performance.',
     info2: 'GatsbyJS + ReactJS + TailwindCSS',
     url: 'https://buildingkaku.netlify.app',
     repo: '', // if no repo, the button will not show up
