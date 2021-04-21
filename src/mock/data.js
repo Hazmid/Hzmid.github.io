@@ -35,7 +35,7 @@ export const projectsData = [
     img: 'kaku.png',
     title: 'KAKU',
     info: 'Website design and development for Kaku.ng a Copy-writing agency. The design was minimal and built with modern utilities for lightning speed performance.',
-    info2: 'GatsbyJS + ReactJS + TailwindCSS',
+    info2: 'Gatsby.js + Tailwind CSS',
     url: 'https://buildingkaku.netlify.app',
     repo: '', // if no repo, the button will not show up
   },
@@ -44,9 +44,18 @@ export const projectsData = [
     img: 'everythingquiz.png',
     title: 'THE EVERYTHING QUIZ',
     info: 'A Web application where users can take random quizzes on a range of topics',
-    info2: 'ReactJS + TypeScript + Styled-Components',
+    info2: 'React.js + TypeScript + Styled-Components',
     url: 'https://everythingquiz.netlify.app',
     repo: 'https://github.com/Hzmid/The-everything-quiz', // if no repo, the button will not show up
+  },
+  {
+    id: uuidv4(),
+    img: 'robo.png',
+    title: 'PERSONAL ROBOTS',
+    info: 'React Web app for searching details of robots in the database, Redux is used to manage the state of the robots the user searched for.',
+    info2: 'React.js + Redux + Tachyons',
+    url: 'https://p-robo.netlify.app/',
+    repo: 'https://github.com/Hzmid/Robo', // if no repo, the button will not show up
   },
   {
     id: uuidv4(),
