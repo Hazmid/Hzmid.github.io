@@ -15,11 +15,11 @@
   right: 0;
   z-index: -1;
 
-  // If you want to set a background image on the hero section, uncomment these with your custom image
+// If you want to set a background image on the hero section, uncomment these with your custom image
 
-  background-image: url(/src/images/matrix.png);
-  background-position: center;
-  background-size: cover;
+//   background-image: url('/src/images/matrix.png');
+//   background-position: center;
+//   background-size: cover;
 
   @include respond(phone) {
     padding: 0rem $default-font-size;
@@ -44,6 +44,12 @@
     }
     @include respond(phone-xs) {
       font-size: 2.8rem;
+    }
+    
+    .text-color-main {
+      background-image: linear-gradient(135deg,#004765,#000);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
     }
   }
 
