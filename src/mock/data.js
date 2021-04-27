@@ -12,7 +12,7 @@ export const headData = {
 export const heroData = {
   title: 'Hi, my name is',
   name: 'Hamid ⚡',
-  subtitle: 'and Im a Front-end Developer (Web and Mobile) with an eye for outstanding UI Design.',
+  subtitle: "and I'm a Front-end Developer with an eye for outstanding UI Design.",
   cta: 'See More',
 };
 
@@ -20,11 +20,11 @@ export const heroData = {
 export const aboutData = {
   img: 'prfl.jpg',
   paragraphOne:
-    'My name is Abdulhamid Usman Im a Front-end Developer from Abuja, ( Web - React.js )( Mobile - React-Native ). I have been working as a Freelancer and Learning to complete my stack. Ive always had a knack for learning how things work and my career over the years has transitioned between Health, Customer service, Art, Fashion-Design and now i found Technology and Product development.',
+    "My name is Abdulhamid Usman I'm a Front-end Developer from Abuja, ( Web - React.js )( Mobile - React-Native ). I currently work as a Freelancer and I'm continously learning to become Pro. I've always had a knack for learning how things work, and my career over the years has transitioned through Health, Customer service, Art, Fashion-Design, and now Technology and Product development.",
   paragraphTwo:
-    'Now with 2 years as a Software Developer, i connect business requirements and Individual preferences with modern technology. Building and maintaining interactive, user-friendly and functional websites and apps. Blending the art of design with skill of programming for outstanding Front-end experience and web solutions. Building websites from start to finish with proactive feature optimization and utilizing modern frameworks and libraries. Im a firm believer in the mobile-first approach and im very passionate about aesthetics and UX/UI design.',
+    "Now with two years of experience as a Software Developer, I connect business requirements and individual preferences with modern technology; Building and maintaining interactive, user-friendly and functional websites and applications. Blending the art of design with skill of programming for outstanding user interfaces for a wholesome user experience; Building projects from start to finish with proactive feature optimization and utilizing modern frameworks and libraries. I'm a firm believer in the mobile-first approach and I'm very passionate about aesthetics and UX/UI design.",
   paragraphThree:
-    'My tech stack (for now) includes JavaScript, ReactJS, React Native, Redux, TypeScript, GatsbyJS, TailwindCSS, Bootstrap, Material UI, Sass, HTML, CSS, graphQL, jQuery, GIT, Github, Gsap, Animations, Vectors, wordPress, NPM, Webpack, Netlify, E-commerce, SEO, Cross-browser compatibility, UX/UI design and Mobile Responsiviness.',
+    "My tech stack (for now) includes JavaScript, React.js, React-Native, Redux, TypeScript, Gatsby.js, Tailwind CSS, Bootstrap, Material UI, Sass, UX/UI design, HTML, CSS, graphQL, MongoDB, Node, jQuery, GIT, Github, Gsap, Animations, Vectors, WordPress, NPM, Webpack, Netlify, E-commerce, SEO, Cross-browser compatibility and Mobile Responsiveness.",
   resume: '', // if no resume, the button will not show up
 };
 
@@ -79,8 +79,8 @@ export const projectsData = [
 
 // CONTACT DATA
 export const contactData = {
-  cta: 'I would love to hear from you!',
-  btn: 'Holla',
+  cta: 'I would love to hear from you',
+  btn: 'Holla!',
   email: 'hazemidoo@gmail.com',
 };
 
