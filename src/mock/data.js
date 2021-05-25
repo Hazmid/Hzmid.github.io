@@ -20,11 +20,11 @@ export const heroData = {
 export const aboutData = {
   img: 'prfl.jpg',
   paragraphOne:
-    "My name is Abdulhamid Usman I'm a Front-end Developer from Abuja, ( Web - React.js )( Mobile - React-Native ). I currently work as a Freelancer and I'm continously learning to become Pro. I've always had a knack for learning how things work, and my career over the years has transitioned through Health, Customer service, Art, Fashion-Design, and now Technology and Product development.",
+    "My name is Abdulhamid Usman I'm a Front-end Developer from Abuja, ( Web - React.js )( Mobile - React-Native ). I have two years of experience as a Frontend Developer, I currently work as a Freelancer and I'm continously learning to become Pro. A firm believer in the mobile-first approach and passionate about aesthetics and UX/UI design.",
   paragraphTwo:
-    "Now with two years of experience as a Software Developer, I connect business requirements and individual preferences with modern technology; Building and maintaining interactive, user-friendly and functional websites and applications. Blending the art of design with skill of programming for outstanding user interfaces for a wholesome user experience; Building projects from start to finish with proactive feature optimization and utilizing modern frameworks and libraries. I'm a firm believer in the mobile-first approach and I'm very passionate about aesthetics and UX/UI design.",
+    "My interest and hobbies in no paticular order: Basketball, Gardening, Hiking, Philosophy, Web psychology, Personality psychology, History, Art.",
   paragraphThree:
-    "My tech stack (for now) includes JavaScript, React.js, React-Native, Redux, TypeScript, Gatsby.js, Tailwind CSS, Bootstrap, Material UI, Sass, UX/UI design, HTML, CSS, graphQL, MongoDB, Node, jQuery, GIT, Github, Gsap, Animations, Vectors, WordPress, NPM, Webpack, Netlify, E-commerce, SEO, Cross-browser compatibility and Mobile Responsiveness.",
+    "My tech stack (for now): JavaScript, React.js, React-Native, Redux, TypeScript, Gatsby.js, Tailwind CSS, Bootstrap, Material UI, Sass, UX/UI design, HTML, CSS, graphQL, MongoDB, Node, jQuery, GIT, Github, Gsap, Animations, Vectors, WordPress, NPM, Webpack, Netlify, E-commerce, SEO, Cross-browser compatibility and accessibility.",
   resume: '', // if no resume, the button will not show up
 };
 
@@ -36,7 +36,7 @@ export const projectsData = [
     title: 'KAKU',
     info: 'Website design and development for Kaku.ng a Copy-writing agency. The design was minimal and built with modern utilities for lightning speed performance.',
     info2: 'Gatsby.js + Tailwind CSS',
-    url: 'https://buildingkaku.netlify.app',
+    url: 'https://kaku2.netlify.app',
     repo: '', // if no repo, the button will not show up
   },
   {
