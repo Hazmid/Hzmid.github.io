@@ -5,14 +5,14 @@ import { v4 as uuidv4 } from 'uuid';
 export const headData = {
   title: 'Hzmid', // e.g: 'Name | Developer'
   lang: 'en', // e.g: en, es, fr, jp
-  description: 'Hamid: Front-end Developer', // e.g: Welcome to my website
+  description: 'Hamid: Frontend Engineer', // e.g: Welcome to my website
 };
 
 // HERO DATA
 export const heroData = {
   title: 'Hi, my name is',
   name: 'Hamid ⚡',
-  subtitle: "and I'm a Front-end Developer with an eye for outstanding UI Design.",
+  subtitle: "and I'm a Frontend Engineer with an eye for outstanding UI Design.",
   cta: 'See More',
 };
 
@@ -20,7 +20,7 @@ export const heroData = {
 export const aboutData = {
   img: 'prfl.jpg',
   paragraphOne:
-    "My name is Abdulhamid Usman I'm a Front-end Developer from Abuja, ( Web - React.js )( Mobile - React-Native ). I have two years of experience as a Frontend Developer, I currently work as a Freelancer and I'm continously learning to become Pro. A firm believer in the mobile-first approach and passionate about aesthetics and UX/UI design.",
+    "My name is Abdulhamid Usman I'm a Frontend Engineer, ( Web - React.js )( Mobile - React-Native ). I have two years of experience as a Frontend Developer, I currently work as a Freelancer and I'm continously learning to become Pro. A firm believer in the mobile-first approach and passionate about aesthetics and UX/UI design.",
   paragraphTwo:
     "My interest and hobbies in no paticular order: Basketball, Gardening, Hiking, Philosophy, Web psychology, Personality psychology, History, Art.",
   paragraphThree:
@@ -79,7 +79,7 @@ export const projectsData = [
 
 // CONTACT DATA
 export const contactData = {
-  cta: 'I would love to hear from you',
+  cta: 'Lets build something amazing together.',
   btn: 'Holla!',
   email: 'hazemidoo@gmail.com',
 };
