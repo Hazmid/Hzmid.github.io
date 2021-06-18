@@ -5,14 +5,14 @@ import { v4 as uuidv4 } from 'uuid';
 export const headData = {
   title: 'Hzmid', // e.g: 'Name | Developer'
   lang: 'en', // e.g: en, es, fr, jp
-  description: 'Hamid: Frontend Engineer', // e.g: Welcome to my website
+  description: 'Hamid: Front-end Engineer', // e.g: Welcome to my website
 };
 
 // HERO DATA
 export const heroData = {
   title: 'Hi, my name is',
   name: 'Hamid ⚡',
-  subtitle: "and I'm a Frontend Engineer with an eye for outstanding UI Design.",
+  subtitle: "and I'm a Front-end Engineer with an eye for outstanding UI/UX Design.",
   cta: 'See More',
 };
 
@@ -20,11 +20,11 @@ export const heroData = {
 export const aboutData = {
   img: 'prfl.jpg',
   paragraphOne:
-    "My name is Abdulhamid Usman I'm a Frontend Engineer, ( Web - React.js )( Mobile - React-Native ). I have two years of experience as a Frontend Developer, I currently work as a Freelancer and I'm continously learning to become Pro. A firm believer in the mobile-first approach and passionate about aesthetics and UX/UI design.",
+    "My name is Abdulhamid Usman I'm a Frontend Engineer, ( Web - React.js )( Mobile - React-Native ). I have two years of experience as a Front-end Engineer, I work as a freelancer and I'm continously learning to become Pro. I'm a firm believer in the mobile-first approach and passionate about aesthetics and UI/UX design.",
   paragraphTwo:
-    "My interest and hobbies in no paticular order: Basketball, Gardening, Hiking, Philosophy, Web psychology, Personality psychology, History, Art.",
+    "My tech stack (for now): JavaScript, React.js, React-Native, Redux, TypeScript, Gatsby.js, Next.js, Tailwind CSS, Bootstrap, Material UI, Sass, Less, WordPress, HTML, CSS, graphQL, MongoDB, Node, jQuery, GIT, Github, GSAP, Figma, Adobe XD, Invision, Adobe Illustrator, NPM, Webpack, Netlify, Heroku, E-commerce, SEO, Cross-browser compatibility and Accessibility.",
   paragraphThree:
-    "My tech stack (for now): JavaScript, React.js, React-Native, Redux, TypeScript, Gatsby.js, Tailwind CSS, Bootstrap, Material UI, Sass, UX/UI design, HTML, CSS, graphQL, MongoDB, Node, jQuery, GIT, Github, Gsap, Animations, Vectors, WordPress, NPM, Webpack, Netlify, E-commerce, SEO, Cross-browser compatibility and accessibility.",
+    "My interest and hobbies (in no paticular order): Basketball, Gardening, Hiking, Philosophy, Psychology (web & personality), History, Art.",
   resume: '', // if no resume, the button will not show up
 };
 
@@ -52,7 +52,7 @@ export const projectsData = [
     id: uuidv4(),
     img: 'robo.png',
     title: 'PERSONAL ROBOTS',
-    info: 'React Web app for searching details of robots in the database, Redux is used to manage the state of the robots the user searched for.',
+    info: 'React Web app for searching details of robots in the database, Redux is used to manage the state.',
     info2: 'React.js + Redux + Tachyons',
     url: 'https://p-robo.netlify.app/',
     repo: 'https://github.com/Hzmid/Robo', // if no repo, the button will not show up
@@ -79,7 +79,7 @@ export const projectsData = [
 
 // CONTACT DATA
 export const contactData = {
-  cta: 'Lets build something amazing together.',
+  cta: "Let's build something amazing together.",
   btn: 'Holla!',
   email: 'hazemidoo@gmail.com',
 };
