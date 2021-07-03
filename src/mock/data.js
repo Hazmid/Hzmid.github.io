@@ -3,7 +3,7 @@ import { v4 as uuidv4 } from 'uuid';
 
 // HEAD DATA
 export const headData = {
-  title: 'Hzmid', // e.g: 'Name | Developer'
+  title: 'Hazmid', // e.g: 'Name | Developer'
   lang: 'en', // e.g: en, es, fr, jp
   description: 'Hamid: Front-end Engineer', // e.g: Welcome to my website
 };
@@ -90,12 +90,12 @@ export const footerData = {
     {
       id: uuidv4(),
       name: 'twitter',
-      url: 'https://twitter.com/hzmid_',
+      url: 'https://twitter.com/hazmid_',
     },
     {
       id: uuidv4(),
       name: 'instagram',
-      url: 'https://www.instagram.com/_hzmid/',
+      url: 'https://www.instagram.com/hazmid_/',
     },
     {
       id: uuidv4(),
@@ -105,7 +105,7 @@ export const footerData = {
     {
       id: uuidv4(),
       name: 'github',
-      url: 'https://github.com/Hzmid',
+      url: 'https://github.com/Hazmid',
     },
   ],
 };
