@@ -20,7 +20,7 @@ export const heroData = {
 export const aboutData = {
   img: 'prfl.jpg',
   paragraphOne:
-    "My name is Abdulhamid Usman I'm a Frontend Engineer, ( Web - React.js )( Mobile - React-Native ). I have two years of experience as a Front-end Engineer, I work as a freelancer and I'm continously learning to become Pro. I'm a firm believer in the mobile-first approach and passionate about aesthetics and UI/UX design.",
+    "My name is Abdulhamid Usman, and I'm a Frontend Engineer with proficiency in the MERN stack. I have 2+ years of experience in software development working on ( Web - React.js )( Mobile - React-Native ) applications mostly, but I'm not biased to using other frameworks and libraries. I currently do freelance work and I'm continously learning to become a Pro. I'm also a mobile-first approach kind of guy who is passionate about aesthetics and UI/UX design.",
   paragraphTwo:
     "My tech stack (for now): JavaScript, React.js, React-Native, Redux, TypeScript, Gatsby.js, Next.js, Tailwind CSS, Bootstrap, Material UI, Sass, Less, WordPress, HTML, CSS, graphQL, MongoDB, Node, jQuery, GIT, Github, GSAP, Figma, Adobe XD, Invision, Adobe Illustrator, NPM, Webpack, Netlify, Heroku, E-commerce, SEO, Cross-browser compatibility and Accessibility.",
   paragraphThree:
@@ -52,7 +52,7 @@ export const projectsData = [
     id: uuidv4(),
     img: 'robo.png',
     title: 'PERSONAL ROBOTS',
-    info: 'React Web app for searching details of robots in the database, Redux is used to manage the state.',
+    info: 'React Web app for searching details of robots in the database, Redux was used to manage the state.',
     info2: 'React.js + Redux + Tachyons',
     url: 'https://p-robo.netlify.app/',
     repo: 'https://github.com/Hzmid/Robo', // if no repo, the button will not show up
@@ -60,7 +60,7 @@ export const projectsData = [
   {
     id: uuidv4(),
     img: 'weatherapp.png',
-    title: 'WEATHER APP',
+    title: 'CL WEATHER',
     info: 'A Weather App built with vanilla JavaScript and data from openweatherapi',
     info2: 'HTML + CSS + JavaScript + APIs ',
     url: 'https://clweather.netlify.app/',
@@ -69,7 +69,7 @@ export const projectsData = [
   {
     id: uuidv4(),
     img: 'tetris.png',
-    title: 'TETRIS GAME',
+    title: 'TETRIS',
     info: 'A Tetris game built with just vanilla JavaScript, no frameworks or libraries',
     info2: 'JavaScript',
     url: 'https://tetriswithjs.netlify.app/',
@@ -80,7 +80,7 @@ export const projectsData = [
 // CONTACT DATA
 export const contactData = {
   cta: "Let's build something amazing together.",
-  btn: 'Holla!',
+  btn: 'Say Hello!',
   email: 'hazemidoo@gmail.com',
 };
 
