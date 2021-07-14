@@ -5,13 +5,13 @@ import { v4 as uuidv4 } from 'uuid';
 export const headData = {
   title: 'Hazmid', // e.g: 'Name | Developer'
   lang: 'en', // e.g: en, es, fr, jp
-  description: 'Hamid: Front-end Engineer', // e.g: Welcome to my website
+  description: 'Hazmid: Front-end Engineer', // e.g: Welcome to my website
 };
 
 // HERO DATA
 export const heroData = {
   title: 'Hi, my name is',
-  name: 'Hamid ⚡',
+  name: 'Abdulhamid ⚡',
   subtitle: "and I'm a Front-end Engineer with an eye for outstanding design.",
   cta: 'See More',
 };
