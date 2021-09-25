@@ -22,11 +22,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Hzmid`,
-        short_name: `Hzmid`,
+        name: `Hazmid`,
+        short_name: `Hazmid`,
         start_url: `/`,
-        background_color: `#fff`,
-        theme_color: `#02aab0`,
+        background_color: `#e6eaea`,
+        theme_color: `#e6eaea`,
         display: `standalone`,
         icon: 'src/images/favicon.png',
       },
