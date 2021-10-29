@@ -80,7 +80,7 @@ export const projectsData = [
 // CONTACT DATA
 export const contactData = {
   cta: "Let's build something amazing together.",
-  btn: 'Say Hello!',
+  btn: 'Say hello!',
   email: 'hazemidoo@gmail.com',
 };
 
@@ -90,12 +90,12 @@ export const footerData = {
     {
       id: uuidv4(),
       name: 'twitter',
-      url: 'https://twitter.com/hazmid_',
+      url: 'https://twitter.com/haz_mid_',
     },
     {
       id: uuidv4(),
       name: 'instagram',
-      url: 'https://www.instagram.com/hazmid_/',
+      url: 'https://www.instagram.com/haz_mid_/',
     },
     {
       id: uuidv4(),
@@ -105,7 +105,7 @@ export const footerData = {
     {
       id: uuidv4(),
       name: 'github',
-      url: 'https://github.com/Hazmid',
+      url: 'https://github.com/hazmid',
     },
   ],
 };
