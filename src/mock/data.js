@@ -25,7 +25,7 @@ export const aboutData = {
     "My tech stack (for now): JavaScript, React.js, React-Native, Redux, TypeScript, Gatsby.js, Next.js, Tailwind CSS, Bootstrap, Material UI, Sass, Less, WordPress, HTML, CSS, graphQL, MongoDB, Node, jQuery, GIT, Github, GSAP, Figma, Adobe XD, Invision, Adobe Illustrator, NPM, Webpack, Netlify, Heroku, E-commerce, SEO, Cross-browser compatibility and Accessibility.",
   paragraphThree:
     "My interest and hobbies (in no paticular order): Basketball, Gardening, Hiking, Philosophy, Psychology (web & personality), History, Art.",
-  resume: '', // if no resume, the button will not show up
+  resume: '', // if non resume, the button will not show up
 };
 
 // PROJECTS DATA
