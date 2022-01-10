@@ -20,9 +20,9 @@ export const heroData = {
 export const aboutData = {
   img: 'prfl.png',
   paragraphOne:
-    "My name is Abdulhamid Usman, and I'm a Frontend Engineer with proficiency in the MERN stack. I have 2+ years of experience in software development working on ( Web - React.js )( Mobile - React-Native ) applications mostly, but I'm not biased to using other frameworks and libraries. I currently do freelance work and I'm continously learning to become a Pro. I'm also a mobile-first approach kind of guy who is passionate about aesthetics and UI/UX design.",
+    "My name is Abdulhamid Usman, and I'm a Frontend Engineer with proficiency in the javaScript MERN stack. I have 2+ years of experience in software development working on websites and web applications with React.js , although i'm not biased to using andor learning to use other frameworks and libraries. I am very passionate about aesthetics and design.",
   paragraphTwo:
-    "My tech stack (for now): JavaScript, React.js, React-Native, Redux, TypeScript, Gatsby.js, Next.js, Tailwind CSS, Bootstrap, Material UI, Sass, Less, WordPress, HTML, CSS, graphQL, MongoDB, Node, jQuery, GIT, Github, GSAP, Figma, Adobe XD, Invision, Adobe Illustrator, NPM, Webpack, Netlify, Heroku, E-commerce, SEO, Cross-browser compatibility and Accessibility.",
+    "My tech stack (for now): JavaScript, React.js, TypeScript, Gatsby.js, Next.js, Redux, Node, Tailwind CSS, Bootstrap, Material UI, Sass, HTML, CSS, GIT, Github, GSAP, Figma, Adobe XD, Invision, Adobe Illustrator, E-commerce, mySQL, MongoDB, SEO, Cross-browser compatibility and Accessibility.",
   paragraphThree:
     "My interest and hobbies (in no paticular order): Basketball, Gardening, Hiking, Philosophy, Psychology (web & personality), History, Art.",
   resume: '', // if non resume, the button will not show up
@@ -30,6 +30,24 @@ export const aboutData = {
 
 // PROJECTS DATA
 export const projectsData = [
+    {
+        id: uuidv4(),
+        img: 'Case-management.png',
+        title: 'CASEFILE',
+        info: 'Collaborated in the development of CASEFILE, for OpenUP SA',
+        info2: 'React + TypeScript + Material UI',
+        url: 'https://app.casefile.org.za/',
+        repo: '', // if no repo, the button will not show up
+      },
+      {
+        id: uuidv4(),
+        img: 'Boost.png',
+        title: 'BOOST',
+        info: 'Website design and development for Boost technology company ',
+        info2: 'Tailwind CSS + Perch CMS',
+        url: 'https://www.withboost.co',
+        repo: '', // if no repo, the button will not show up
+      },
   {
     id: uuidv4(),
     img: 'kaku.png',
