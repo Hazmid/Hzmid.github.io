@@ -108,12 +108,12 @@ export const footerData = {
     {
       id: uuidv4(),
       name: 'twitter',
-      url: 'https://twitter.com/haz_mid_',
+      url: 'https://twitter.com/hazemid_o',
     },
     {
       id: uuidv4(),
       name: 'instagram',
-      url: 'https://www.instagram.com/haz_mid_/',
+      url: 'https://www.instagram.com/hazemid_o/',
     },
     {
       id: uuidv4(),
