@@ -20,9 +20,9 @@ export const heroData = {
 export const aboutData = {
   img: 'portrait.jpg',
   paragraphOne:
-    "My name is Abdulhamid Usman, and I'm a Frontend Engineer with proficiency in the javaScript MERN stack. I have 2+ years of experience in software development working on websites and web applications with React.js , although i'm not biased to using andor learning to use other frameworks and libraries. I am very passionate about aesthetics and design.",
+    "My name is Abdulhamid Usman, and I'm a Frontend Engineer with 4+ years of experience in software development working on websites and web applications with React.js , although I'm not biased to using andor learning to use other frameworks and libraries. I am very passionate about aesthetics and design.",
   paragraphTwo:
-    "My tech stack (for now): JavaScript, React.js, TypeScript, Gatsby.js, Next.js, Redux, Node, Tailwind CSS, Bootstrap, Material UI, Sass, HTML, CSS, GIT, Github, GSAP, Figma, Adobe XD, Invision, Adobe Illustrator, E-commerce, mySQL, MongoDB, SEO, Cross-browser compatibility and Accessibility.",
+    "My tech stack (for now): JavaScript, React.js, TypeScript, Gatsby.js, Next.js, Redux, Tailwind CSS, Bootstrap, Material UI, Sass, GIT, Github, GSAP, Python, Django, Figma, Adobe XD, E-commerce, Cross-browser compatibility and Accessibility.",
   paragraphThree:
     "My interest and hobbies (in no paticular order): Basketball, Gardening, Hiking, Philosophy, Psychology (web & personality), History, Art.",
   resume: '', // if non resume, the button will not show up
@@ -74,24 +74,6 @@ export const projectsData = [
     info2: 'React.js + Redux + Tachyons',
     url: 'https://p-robo.netlify.app/',
     repo: 'https://github.com/Hzmid/Robo', // if no repo, the button will not show up
-  },
-  {
-    id: uuidv4(),
-    img: 'weatherapp.png',
-    title: 'CL WEATHER',
-    info: 'A Weather App built with vanilla JavaScript and data from openweatherapi',
-    info2: 'HTML + CSS + JavaScript + APIs ',
-    url: 'https://clweather.netlify.app/',
-    repo: 'https://github.com/Hzmid/Current-Location-Weather-App', // if no repo, the button will not show up
-  },
-  {
-    id: uuidv4(),
-    img: 'tetris.png',
-    title: 'TETRIS',
-    info: 'A Tetris game built with just vanilla JavaScript, no frameworks or libraries',
-    info2: 'JavaScript',
-    url: 'https://tetriswithjs.netlify.app/',
-    repo: 'https://github.com/Hzmid/Tetris-with-javaScript', // if no repo, the button will not show up
   },
 ];
 
