@@ -22,7 +22,7 @@ export const aboutData = {
   paragraphOne:
     "My name is Abdulhamid Usman, and I'm a Frontend Engineer with 4+ years of experience in software development working on websites and web applications with React.js , although I'm not biased to using andor learning to use other frameworks and libraries. I am very passionate about aesthetics and design.",
   paragraphTwo:
-    "My tech stack (for now): JavaScript, React.js, TypeScript, Next.js, Gatsby.js, Redux, Tailwind CSS, Bootstrap, Material UI, Sass, GIT, Github, GSAP, Python, Django, Figma, Adobe XD, E-commerce, Cross-browser compatibility and Accessibility.",
+    "My tech stack (for now): JavaScript, React.js, TypeScript, Next.js, Gatsby.js, Redux, Tailwind CSS, Bootstrap, Material UI, Sass, GIT, Github, GSAP, Python, Django, GraphQL, Node, Figma, Adobe XD, E-commerce, Cross-browser compatibility and Accessibility.",
   paragraphThree:
     "My interest and hobbies (in no paticular order): Basketball, Gardening, Hiking, Philosophy, Psychology (web & personality), History, Art.",
   resume: '', // if non resume, the button will not show up
