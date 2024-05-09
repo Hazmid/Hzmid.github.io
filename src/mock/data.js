@@ -30,15 +30,6 @@ export const aboutData = {
 
 // PROJECTS DATA
 export const projectsData = [
-   {
-    id: uuidv4(),
-    img: 'IMG-20240422-WA0007(1).jpg',
-    title: 'ELEVATE TRADING',
-    info: 'Elevate trading app',
-    info2: ' Next, React, Recharts',
-    url: '',
-    repo: '', // if no repo, the button will not show up
-  },
   {
     id: uuidv4(),
     img: 'Here for change - Ward.png',
