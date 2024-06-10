@@ -18,7 +18,7 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'portrait.jpg',
+  img: 'image.jpg',
   paragraphOne:
     "My name is Abdulhamid Usman, and I'm a Frontend Engineer with 4+ years of experience in software development working on websites and web applications with React.js , although I'm not biased to using andor learning to use other frameworks and libraries. I am very passionate about aesthetics and design.",
   paragraphTwo:
@@ -30,6 +30,15 @@ export const aboutData = {
 
 // PROJECTS DATA
 export const projectsData = [
+  {
+    id: uuidv4(),
+    img: 'IMG-20240422-WA0007(1).jpg',
+    title: 'ELEVATE TRADING',
+    info: 'Elevate trading app',
+    info2: ' Next.js + Tailwind CSS + Recharts',
+    url: 'https://www.elevatetraderfunding.com/',
+    repo: '', // if no repo, the button will not show up
+  },
   {
     id: uuidv4(),
     img: 'Here for change - Ward.png',
