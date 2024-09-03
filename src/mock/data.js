@@ -33,10 +33,10 @@ export const projectsData = [
   {
     id: uuidv4(),
     img: 'IMG-20240422-WA0007(1).jpg',
-    title: 'ELEVATE TRADING',
-    info: 'Elevate trading app',
-    info2: ' Next.js + Tailwind CSS + Recharts',
-    url: 'https://www.elevatetraderfunding.com/',
+    title: 'ORTHOINFO',
+    info: 'A  centralized source of information for the Orthopedic and Therapy industry.',
+    info2: 'React.js + Sass + Django',
+    url: 'https://orthoinfo.ca/',
     repo: '', // if no repo, the button will not show up
   },
   {
