@@ -32,7 +32,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id: uuidv4(),
-    img: 'IMG-20240422-WA0007(1).jpg',
+    img: 'Orthoinfo.jpg',
     title: 'ORTHOINFO',
     info: 'A  centralized source of information for the Orthopedic and Therapy industry.',
     info2: 'React.js + Sass + Django',
