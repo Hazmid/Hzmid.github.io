@@ -18,7 +18,7 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'Profile24.jpg',
+  img: 'photograph.jpg',
   paragraphOne:
     "My name is Abdulhamid Usman, and I'm a Frontend Engineer with 4+ years of experience in software development working on websites and web applications with React.js , although I'm not biased to using andor learning to use other frameworks and libraries. I am very passionate about aesthetics and design.",
   paragraphTwo:
